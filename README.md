@@ -1,3 +1,9 @@
+# Tic Tac Toe
+This is a React App for tic tac toe.
+
+Click on the link below to view a demo.
+[View Demo](https://tic-tac-toe-ee2fd.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
